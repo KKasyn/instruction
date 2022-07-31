@@ -26,5 +26,7 @@
 пример
 ![выход](exit.JPG)
 ## Ссылки
+Чтобы вставитьссылку в текст необходимо:
+[какработать с сылками](https://docs.microsoft.com/ru-ru/contribute/how-to-write-links)
 
 ## Таблицы
